@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imsujaykumar
 - 👀 I’m interested in coding and develop
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on web developing
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me- s4sujaykumar001@gmail.com
 
 <!---
