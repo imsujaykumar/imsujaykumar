@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imsujaykumar
+- 👋 Hi, I’m Sujay Kumar
 - 👀 I’m interested in coding and develop
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on software projects
